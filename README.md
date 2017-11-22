@@ -1,7 +1,8 @@
 `python app.py`
 Runs a light-weight node made available via Flask webserver
 
-Available endpoints are
+<h3>Available endpoints are </h3>
+
 <ol>
 <li>    /chain/list - GET <br>
    retrieves a list of blocks which makes up the blochain on the current node.
